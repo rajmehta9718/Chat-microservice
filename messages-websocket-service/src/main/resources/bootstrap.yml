@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      name: commons, messages-websocket
+      uri: http://localhost:8888
